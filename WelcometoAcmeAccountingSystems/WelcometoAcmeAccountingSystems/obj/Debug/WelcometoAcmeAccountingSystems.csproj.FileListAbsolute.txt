@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\bin\Debug\WelcometoAcmeAccountingSystems.exe.config
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\bin\Debug\WelcometoAcmeAccountingSystems.exe
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\bin\Debug\WelcometoAcmeAccountingSystems.pdb
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\obj\Debug\WelcometoAcmeAccountingSystems.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\obj\Debug\WelcometoAcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\obj\Debug\WelcometoAcmeAccountingSystems.exe
+C:\Users\maksi\source\repos\WelcometoAcmeAccountingSystems\WelcometoAcmeAccountingSystems\obj\Debug\WelcometoAcmeAccountingSystems.pdb
