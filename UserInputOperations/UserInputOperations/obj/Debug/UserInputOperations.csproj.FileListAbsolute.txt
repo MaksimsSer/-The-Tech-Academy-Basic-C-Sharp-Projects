@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\bin\Debug\UserInputOperations.exe.config
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\bin\Debug\UserInputOperations.exe
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\bin\Debug\UserInputOperations.pdb
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\obj\Debug\UserInputOperations.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\obj\Debug\UserInputOperations.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\obj\Debug\UserInputOperations.exe
+C:\Users\maksi\source\repos\UserInputOperations\UserInputOperations\obj\Debug\UserInputOperations.pdb
