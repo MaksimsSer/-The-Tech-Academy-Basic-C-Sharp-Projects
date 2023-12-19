@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe.config
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.pdb
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\maksi\source\repos\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.pdb
