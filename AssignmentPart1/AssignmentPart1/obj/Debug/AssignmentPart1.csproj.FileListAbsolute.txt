@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\bin\Debug\AssignmentPart1.exe.config
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\bin\Debug\AssignmentPart1.exe
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\bin\Debug\AssignmentPart1.pdb
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\obj\Debug\AssignmentPart1.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\obj\Debug\AssignmentPart1.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\obj\Debug\AssignmentPart1.exe
+C:\Users\maksi\source\repos\AssignmentPart1\AssignmentPart1\obj\Debug\AssignmentPart1.pdb
