@@ -9,12 +9,11 @@ namespace MathOperation
         {
             //Instantiate the MathOperation class
             MathOperation mathOperation = new MathOperation();
-            //Call the method in the class, passing in two numbers
-            mathOperation.PerformMathOperation(5, 8);
-            //Call the method in the class, specifying the parameters
-            mathOperation.PerformMathOperation(num1: 8, num2: 10);
+            //Call the method in the class, specifying parametres by name
+            mathOperation.PerformMathOperation(firstNumber: 5, secondNumber: 8);
+            mathOperation.PerformMathOperation(firstNumber: 2, secondNumber: 10);
             //Keep the console open untill a key is pressed
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }

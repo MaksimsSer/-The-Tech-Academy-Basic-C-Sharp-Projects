@@ -5,3 +5,10 @@ C:\Users\maksi\source\repos\MathOperation\MathOperation\obj\Debug\MathOperation.
 C:\Users\maksi\source\repos\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
 C:\Users\maksi\source\repos\MathOperation\MathOperation\obj\Debug\MathOperation.exe
 C:\Users\maksi\source\repos\MathOperation\MathOperation\obj\Debug\MathOperation.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\bin\Debug\MathOperation.exe.config
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\bin\Debug\MathOperation.exe
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\bin\Debug\MathOperation.pdb
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\obj\Debug\MathOperation.exe
+C:\Users\maksi\OneDrive\Documents\GitHub\-The-Tech-Academy-Basic-C-Sharp-Projects\MathOperation\MathOperation\obj\Debug\MathOperation.pdb
