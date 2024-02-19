@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.exe.config
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.exe
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\bin\Debug\MethodAndObjectsAssignment.pdb
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.exe
+C:\Users\maksi\source\repos\MethodAndObjectsAssignment\MethodAndObjectsAssignment\obj\Debug\MethodAndObjectsAssignment.pdb
