@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe.config
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.pdb
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.exe
+C:\Users\maksi\source\repos\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.pdb
