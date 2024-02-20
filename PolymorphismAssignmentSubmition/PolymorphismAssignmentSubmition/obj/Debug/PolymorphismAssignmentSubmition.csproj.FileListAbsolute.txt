@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\obj\Debug\PolymorphismAssignmentSubmition.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\obj\Debug\PolymorphismAssignmentSubmition.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\bin\Debug\PolymorphismAssignmentSubmition.exe.config
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\bin\Debug\PolymorphismAssignmentSubmition.exe
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\bin\Debug\PolymorphismAssignmentSubmition.pdb
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\obj\Debug\PolymorphismAssignmentSubmition.exe
+C:\Users\maksi\source\repos\PolymorphismAssignmentSubmition\PolymorphismAssignmentSubmition\obj\Debug\PolymorphismAssignmentSubmition.pdb
