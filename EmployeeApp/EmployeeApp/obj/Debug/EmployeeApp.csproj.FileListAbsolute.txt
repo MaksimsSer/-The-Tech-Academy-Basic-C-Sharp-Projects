@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\maksi\source\repos\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
