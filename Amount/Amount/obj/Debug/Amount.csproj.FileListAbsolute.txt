@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\Amount\Amount\bin\Debug\Amount.exe.config
+C:\Users\maksi\source\repos\Amount\Amount\bin\Debug\Amount.exe
+C:\Users\maksi\source\repos\Amount\Amount\bin\Debug\Amount.pdb
+C:\Users\maksi\source\repos\Amount\Amount\obj\Debug\Amount.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\Amount\Amount\obj\Debug\Amount.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\Amount\Amount\obj\Debug\Amount.exe
+C:\Users\maksi\source\repos\Amount\Amount\obj\Debug\Amount.pdb
