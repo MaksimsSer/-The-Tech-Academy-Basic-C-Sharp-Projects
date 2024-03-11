@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.exe.config
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.exe
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.pdb
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.exe
+C:\Users\maksi\source\repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.pdb
