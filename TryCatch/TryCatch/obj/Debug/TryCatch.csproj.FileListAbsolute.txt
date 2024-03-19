@@ -1,0 +1,7 @@
+C:\Users\maksi\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\maksi\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\maksi\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\maksi\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\maksi\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
