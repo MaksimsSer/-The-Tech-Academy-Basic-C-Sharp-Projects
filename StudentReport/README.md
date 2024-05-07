@@ -25,3 +25,9 @@ To run the program, follow these steps:
 Clone or download this repository to your local machine.
 Open the solution in your preferred C# development environment (e.g., Visual Studio).
 Build and run the program.
+
+Program Execution
+
+The program prompts the user for various pieces of information related to their daily report.
+After receiving all the input, it prints a confirmation message to the console.
+The console window remains open until a key is pressed.
