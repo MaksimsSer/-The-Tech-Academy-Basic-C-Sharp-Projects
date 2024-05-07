@@ -22,7 +22,3 @@ Clone or download this repository to your local machine.
 Open the solution in your preferred C# development environment (e.g., Visual Studio).
 
 Build and run the program.
-
-Contributors
-
-Your Name - Your Organization
